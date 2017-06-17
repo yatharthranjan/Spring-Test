@@ -1,6 +1,8 @@
 # Spring-Test
 Learning to create a basic Spring REST Api
 
+This was created locally with the help of the following tutorial from the official spring documentation : https://spring.io/guides/gs/rest-service/ and later deployed on heruko.
+
 Create a simple REST spring java application and deploy it on heroku (PAAS) platform.
 
 This app can be tested by visiting-
